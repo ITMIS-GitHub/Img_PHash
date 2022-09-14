@@ -1,2 +1,2 @@
 # PHash
-Perceptual Hashing for Multimedia
+Perceptual Hashing for Images
